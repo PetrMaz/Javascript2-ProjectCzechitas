@@ -1,0 +1,17 @@
+{
+  "name": "javascript2-projectczechitas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^13.1.8"
+  }
+}
